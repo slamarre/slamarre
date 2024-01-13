@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slamarre
 - 👀 I’m interested in web development/software development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Cloud Computing, ReactJs and Python
 - 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me, Github for now.
 
